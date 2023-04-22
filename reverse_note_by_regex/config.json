@@ -1,0 +1,4 @@
+{
+  "noteType": "Basic (and reverse)",
+  "regexes": [".*§[0-9]+.*"]
+}
